@@ -27,7 +27,9 @@
                                 <h3>Lynda.com</h3>
                                 <a class="clickable" href="/testing/test/composer-random-integer.php">Composer - Random Integer</a>
                                 <br />
-                                <a class="clickable" href="/testing/test/namespaces.php">Namespaces</a>
+                                <a class="clickable" href="/testing/test/namespaces/namespaces.php">Namespaces</a>
+                                <br />
+                                <a class="clickable" href="/testing/test/interfaces/interface.php">Interfaces</a>
                             </div>
                             <div class="col-sm-12">
                                 <h3>PHP Tests</h3>
