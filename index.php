@@ -30,6 +30,8 @@
                                 <a class="clickable" href="/testing/test/namespaces/namespaces.php">Namespaces</a>
                                 <br />
                                 <a class="clickable" href="/testing/test/interfaces/interface.php">Interfaces</a>
+                                <br />
+                                <a class="clickable" href="/testing/test/traits/trait.php">Traits</a>
                             </div>
                             <div class="col-sm-12">
                                 <h3>PHP Tests</h3>
